@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1537249251 source:c:\users\wazei\desktop\derivatives\linkedlist.cpp
+	"linkedlist.h"
+	"node.h"
+
+1537249251 c:\users\wazei\desktop\derivatives\linkedlist.h
+	"node.h"
+
+1537249251 c:\users\wazei\desktop\derivatives\node.h
+	<iostream>
+	<fstream>
+	<string>
+
+1537249251 source:c:\users\wazei\desktop\derivatives\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<cctype>
+	"node.h"
+	"linkedlist.h"
+
+1537249251 source:c:\users\wazei\desktop\derivatives\node.cpp
+	"node.h"
+
